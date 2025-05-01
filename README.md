@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @raynaratami
-- 🖥️ I’m interested in learning different programming languages
-  
+Olá!! Eu sou Raynara Tami
+Estudando PHP e Python
 
