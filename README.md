@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre mim
 
-- 🌱 Atualmente aprendendo e explorando: **PHP, Python, Arduino, HTML e CSS**
+- 🌱 Atualmente aprendendo e explorando: **PHP, SQL, Python, Arduino, HTML e CSS**
 - 💻 Sempre buscando transformar ideias em projetos reais
 - 🛠️ Adoro mexer com eletrônica, automação e desenvolvimento web
 
@@ -16,6 +16,7 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
