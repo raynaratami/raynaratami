@@ -47,5 +47,9 @@
 > _"Com cada linha de código, construo mais que soluções: construo a versão mais forte e brilhante de mim mesma e não paro até me tornar aquilo que sonhei ser." 🌟🛠️💫_  
 
 ---
+## 🐍 Snake eating my contributions
+
+![snake gif](https://github.com/raynaratami/raynaratami/blob/output/github-contribution-grid-snake.svg)
+
 
 ⭐ Obrigada por visitar meu perfil!
