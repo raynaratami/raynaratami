@@ -40,11 +40,7 @@
 
 ---
 
-## ✨ Um toque pessoal
-
-<!-- Aqui você pode colocar um gif seu -->
-<img src="https://link-do-seu-gif.gif" width="300px" />
-
+## ✨ 
 > _"Com cada linha de código, construo mais que soluções: construo a versão mais forte e brilhante de mim mesma e não paro até me tornar aquilo que sonhei ser." 🌟🛠️💫_  
 
 ---
