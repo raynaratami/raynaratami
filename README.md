@@ -1,12 +1,12 @@
 # 👩‍💻 Olá! Eu sou a Raynara Tami
 
-🎓 Estudante de TI apaixonada por tecnologia, criatividade e construção de soluções com código.
+🎓 Estudante de Engenharia da Computação, apaixonada por tecnologia, criatividade e construção de soluções com código.
 
 ---
 
 ## 🚀 Sobre mim
 
-- 🌱 Atualmente aprendendo e explorando: **PHP, SQL, Python, Arduino, HTML e CSS**
+- 🌱 Atualmente aprendendo e explorando: **PHP, SQL, Python, Javascript e C**
 - 💻 Sempre buscando transformar ideias em projetos reais
 - 🛠️ Adoro mexer com eletrônica, automação e desenvolvimento web
 
